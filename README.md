@@ -1,4 +1,4 @@
-# loquesea
+# Interpreter
 
 [![Languages](https://img.shields.io/github/languages/top/kelvinJavier64/loquesea)](https://github.com/kelvinJavier64/loquesea)
 [![License](https://img.shields.io/github/license/kelvinJavier64/loquesea)](LICENSE)
