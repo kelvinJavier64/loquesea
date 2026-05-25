@@ -100,9 +100,3 @@ The program will:
 
 ### 5. End Program
 When execution finishes, press Enter to close.
-
-## Contributing
-Contributions are welcome! Please open issues and submit pull requests for any improvements or bug fixes.
-
-## License
-This project is licensed under the terms of the [LICENSE](LICENSE) file.
