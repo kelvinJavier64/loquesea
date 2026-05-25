@@ -1,9 +1,9 @@
-# Interpreter
+# interpreter
 
 [![Languages](https://img.shields.io/github/languages/top/kelvinJavier64/loquesea)](https://github.com/kelvinJavier64/loquesea)
 [![License](https://img.shields.io/github/license/kelvinJavier64/loquesea)](LICENSE)
 
-loquesea is a C++ expert system rule interpreter.
+interpreter is a C++ expert system rule interpreter.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,7 @@ loquesea is a C++ expert system rule interpreter.
 
 ## Overview
 
-loquesea is a C++ project for interpreting rule-based expert systems. Rules and states are read from text files and evaluated using an AST-based interpreter.
+interpreter is a C++ project for interpreting rule-based expert systems. Rules and states are read from text files and evaluated using an AST-based interpreter.
 
 ## Features
 - Written in modern C++
@@ -100,3 +100,9 @@ The program will:
 
 ### 5. End Program
 When execution finishes, press Enter to close.
+
+## Contributing
+Contributions are welcome! Please open issues and submit pull requests for any improvements or bug fixes.
+
+## License
+This project is licensed under the terms of the [LICENSE](LICENSE) file.
